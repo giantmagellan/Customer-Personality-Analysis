@@ -22,10 +22,10 @@ The main purpose of this project is to use customer demographic information to d
 - Python
 
 ### Data Description
-Source: Kaggle.com
-Number of Variables: 29
-Size of dataset: 220 kb (2240 rows, 29 columns)
-25 integers
-3 strings
-1 ID
+- Source: Kaggle.com
+- Number of Variables: 29
+- Size of dataset: 220 kb (2240 rows, 29 columns)
+- 25 integers
+- 3 strings
+- 1 ID
 
